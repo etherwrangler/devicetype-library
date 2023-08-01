@@ -6,6 +6,9 @@ part_number: UCS-FI-6454
 u_height: 1
 is_full_depth: true
 airflow: front-to-rear
+weight: 22.24
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/datasheet-c78-741116.html)'
 console-ports:
   - name: console
     type: rj-45
