@@ -1,0 +1,50 @@
+---
+manufacturer: Cisco
+model: UCSX-9508
+slug: cisco-ucsx-9508
+part_number: UCSX-9508-U
+u_height: 7
+is_full_depth: true
+subdevice_role: parent
+airflow: front-to-rear
+weight: 92
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/datasheet-c78-2472574.html)'
+device-bays:
+  - name: slot-1
+  - name: slot-2
+  - name: slot-3
+  - name: slot-4
+  - name: slot-5
+  - name: slot-6
+  - name: slot-7
+  - name: slot-8
+module-bays:
+  - name: Intelligent Fabric Module 1
+    position: '1'
+  - name: Intelligent Fabric Module 2
+    position: '2'
+  - name: X-Fabric module
+    position: '3'
+  - name: X-Fabric module
+    position: '4'
+  - name: PSU1
+    position: '1'
+  - name: PSU2
+    position: '2'
+  - name: PSU3
+    position: '3'
+  - name: PSU4
+    position: '4'
+  - name: FAN1
+    position: '1'
+    description: 100mm hot-swappable dual rotor fan
+  - name: FAN2
+    position: '2'
+    description: 100mm hot-swappable dual rotor fan
+  - name: FAN3
+    position: '3'
+    description: 100mm hot-swappable dual rotor fan
+  - name: FAN4
+    position: '4'
+    description: 100mm hot-swappable dual rotor fan

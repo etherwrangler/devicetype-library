@@ -1,0 +1,24 @@
+---
+manufacturer: Cisco
+model: UCSX-I-9108-25G-D
+part_number: UCSX-I-9108-25G-D
+weight: 8.42
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/9108-25g-specsheet.pdf)'
+interfaces:
+  - name: Fabric {module}/1
+    type: 25gbase-x-sfp28
+  - name: Fabric {module}/2
+    type: 25gbase-x-sfp28
+  - name: Fabric {module}/3
+    type: 25gbase-x-sfp28
+  - name: Fabric {module}/4
+    type: 25gbase-x-sfp28
+  - name: Fabric {module}/5
+    type: 25gbase-x-sfp28
+  - name: Fabric {module}/6
+    type: 25gbase-x-sfp28
+  - name: Fabric {module}/7
+    type: 25gbase-x-sfp28
+  - name: Fabric {module}/8
+    type: 25gbase-x-sfp28

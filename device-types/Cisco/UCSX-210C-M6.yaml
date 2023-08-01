@@ -1,0 +1,12 @@
+---
+manufacturer: Cisco
+model: UCSX-210C-M6
+slug: cisco-ucsx-210c-m6
+part_number: UCSX-210C-M6
+u_height: 0
+is_full_depth: true
+subdevice_role: child
+airflow: passive
+weight: 25.1
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/x210c-specsheet.pdf)'
