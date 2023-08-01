@@ -7,6 +7,9 @@ u_height: 6
 is_full_depth: true
 subdevice_role: parent
 airflow: front-to-rear
+weight: 90
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-5100-series-blade-server-chassis/data_sheet_c78-526830.html)'
 device-bays:
   - name: slot-1
   - name: slot-2

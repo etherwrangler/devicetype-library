@@ -2,6 +2,9 @@
 manufacturer: Cisco
 model: UCS-IOM-2208XP
 part_number: UCS-IOM-2208XP
+weight: 2.5
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-6300-series-fabric-interconnects/data_sheet_c78-675243.html)'
 interfaces:
   - name: Fabric {module}/1
     type: 10gbase-x-sfpp

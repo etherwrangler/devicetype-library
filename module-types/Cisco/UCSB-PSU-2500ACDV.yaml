@@ -2,6 +2,9 @@
 manufacturer: Cisco
 model: UCSB-PSU-2500ACDV
 part_number: UCSB-PSU-2500ACDV
+weight: 7
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/hw/site-prep-guide/ucs_site_prep/ucs_siteprep_chapter_011.pdf)'
 power-ports:
   - name: PSU{module}
     type: iec-60320-c20
