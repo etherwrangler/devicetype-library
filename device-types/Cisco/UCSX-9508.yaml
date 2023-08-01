@@ -24,9 +24,9 @@ module-bays:
     position: '1'
   - name: Intelligent Fabric Module 2
     position: '2'
-  - name: X-Fabric module
+  - name: X-Fabric Module 1
     position: '3'
-  - name: X-Fabric module
+  - name: X-Fabric Module 2
     position: '4'
   - name: PSU1
     position: '1'

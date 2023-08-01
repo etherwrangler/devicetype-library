@@ -1,7 +1,7 @@
 ---
 manufacturer: Cisco
-model: UCSX-PSU-2800AC
-part_number: UCSX-PSU-2800AC
+model: UCSX-PSU-2800AC-D
+part_number: UCSX-PSU-2800AC-D
 weight: 1
 weight_unit: lb
 power-ports:
