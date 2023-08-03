@@ -1,0 +1,15 @@
+---
+manufacturer: Cisco
+model: UCSB-MLOM-40G-04
+description: 'Cisco UCS VIC 1440 mLOM for B-Series M5 and M6'
+part_number: UCSB-MLOM-40G-04
+comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/unified-computing-system-adapters/datasheet-c78-741130.html)'
+interfaces:
+  - name: Ethernet {module}/1
+    type: virtual
+  - name: Ethernet {module}/2
+    type: virtual
+  - name: HBA {module}/1
+    type: virtual
+  - name: HBA {module}/2
+    type: virtual

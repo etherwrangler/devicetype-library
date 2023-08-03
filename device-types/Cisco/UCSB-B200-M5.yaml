@@ -6,3 +6,16 @@ part_number: UCSB-B200-M5
 u_height: 0
 is_full_depth: true
 subdevice_role: child
+airflow: passive
+weight: 16
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-b-series-blade-servers/datasheet-c78-739296.html)'
+module-bays:
+  - name: Rear Mezzanine Slot 1
+    position: '1'
+  - name: Rear Mezzanine Slot 2
+    position: '2'
+  - name: VIC Bridge Card
+    position: '3'
+  - name: Front Mezzanine Slot
+    position: '3'
