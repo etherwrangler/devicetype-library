@@ -1,7 +1,7 @@
 ---
 manufacturer: Cisco
 model: UCSX-V4-Q25GML
-description: 'UCS VIC 14425 4x25G mLOM for X Compute Node'
+description: UCS VIC 14425 4x25G mLOM for X Compute Node
 part_number: UCSX-V4-Q25GML
 comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/unified-computing-system-adapters/datasheet-c78-741130.html)'
 interfaces:
