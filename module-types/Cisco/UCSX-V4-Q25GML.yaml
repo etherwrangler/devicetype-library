@@ -5,10 +5,10 @@ part_number: UCSX-V4-Q25GML
 comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/unified-computing-system-adapters/datasheet-c78-741130.html)'
 interfaces:
   - name: Ethernet {module}/1
-    type: virtual
+    type: 25gbase-kr
   - name: Ethernet {module}/2
-    type: virtual
+    type: 25gbase-kr
   - name: HBA {module}/1
-    type: virtual
+    type: 25gbase-kr
   - name: HBA {module}/2
-    type: virtual
+    type: 25gbase-kr
