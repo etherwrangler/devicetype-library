@@ -5,6 +5,9 @@ part_number: N9K-C93180YC-EX
 slug: cisco-n9k-c93180yc-ex
 u_height: 1
 is_full_depth: true
+weight: 17.2
+weight_unit: lb
+comments: '[Datasheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742283.html)'
 console-ports:
   - name: console
     type: rj-45
@@ -125,3 +128,5 @@ module-bays:
     position: '1'
   - name: PS2
     position: '2'
+  - name: Fan Tray
+    position: '1'
